@@ -1,0 +1,159 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Configuration</title>
+        <style>
+            html, body {
+                margin: 0;
+                padding: 0;
+                font-family: "Segoe UI", Tahoma, sans-serif;
+                background: #f4f6f8;
+                color: #1f2933;
+            }
+
+            .config-wrap {
+                padding: 16px;
+            }
+
+            h1 {
+                margin: 0 0 14px 0;
+                font-size: 18px;
+            }
+
+            .section {
+                background: #ffffff;
+                border: 1px solid #dde3ea;
+                border-radius: 8px;
+                padding: 12px;
+                margin-bottom: 12px;
+            }
+
+            .section-title {
+                margin: 0 0 10px 0;
+                font-size: 14px;
+                font-weight: 700;
+            }
+
+            .field {
+                display: grid;
+                gap: 6px;
+                margin-bottom: 10px;
+            }
+
+            label {
+                font-size: 12px;
+                font-weight: 600;
+                color: #3a4a5a;
+            }
+
+            input[type="text"],
+            input[type="number"] {
+                width: 100%;
+                box-sizing: border-box;
+                border: 1px solid #b9c6d3;
+                border-radius: 6px;
+                padding: 8px 10px;
+                font-size: 13px;
+            }
+
+            .inline {
+                display: flex;
+                gap: 8px;
+                align-items: center;
+            }
+
+            .inline input[type="text"] {
+                flex: 1;
+            }
+
+            .check-row {
+                display: flex;
+                gap: 8px;
+                align-items: center;
+                margin-bottom: 8px;
+            }
+
+            button {
+                border: 1px solid #b8c4d1;
+                background: #ffffff;
+                border-radius: 6px;
+                padding: 8px 10px;
+                font-size: 12px;
+                cursor: pointer;
+            }
+
+            button:hover {
+                background: #f1f5f9;
+            }
+
+            .status {
+                font-size: 12px;
+                color: #475569;
+                min-height: 16px;
+                margin-top: 4px;
+            }
+
+            .actions {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-top: 12px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="config-wrap">
+            <h1>Configuration</h1>
+
+            <div class="section">
+                <p class="section-title">Paths</p>
+                <div class="field">
+                    <label for="dataDirectory">Data directory</label>
+                    <div class="inline">
+                        <input id="dataDirectory" type="text" />
+                        <button id="browseData" type="button">Browse</button>
+                    </div>
+                </div>
+                <div class="field">
+                    <label for="tilesDirectory">Tiles directory</label>
+                    <div class="inline">
+                        <input id="tilesDirectory" type="text" />
+                        <button id="browseTiles" type="button">Browse</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="section">
+                <p class="section-title">Display</p>
+                <div class="field">
+                    <label for="iconSize">Icon size (px)</label>
+                    <input id="iconSize" type="number" min="4" max="32" step="1" />
+                </div>
+            </div>
+
+            <div class="section">
+                <p class="section-title">Additional POI Cluster</p>
+                <label class="check-row"><input id="chunkedLoading" type="checkbox" /> Chunked loading</label>
+                <div class="field">
+                    <label for="disableClusteringAtZoom">Disable clustering at zoom</label>
+                    <input id="disableClusteringAtZoom" type="number" min="0" max="20" step="1" />
+                </div>
+                <label class="check-row"><input id="showCoverageOnHover" type="checkbox" /> Show coverage on hover</label>
+                <label class="check-row"><input id="spiderfyOnMaxZoom" type="checkbox" /> Spiderfy on max zoom</label>
+            </div>
+
+            <div class="actions">
+                <button id="resetDefaults" type="button">Reset defaults</button>
+                <button id="closeWindow" type="button">Close</button>
+            </div>
+            <div id="status" class="status"></div>
+        </div>
+
+        <!--
+            window.__TAURI__ is injected by Tauri because `withGlobalTauri: true`
+            is set in tauri.conf.json. No module bundler is required.
+        -->
+        <script src="scripts/configWindow.js"></script>
+    </body>
+</html>

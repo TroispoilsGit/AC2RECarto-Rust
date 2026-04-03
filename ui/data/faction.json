@@ -1,0 +1,97 @@
+[
+  {
+    "description": "Faction Shrine -- Order of Dereth",
+    "x": 111.125,
+    "y": -86.875
+  },
+  {
+    "description": "Faction Shrine -- Shadow Kingdom",
+    "x": 111.75,
+    "y": -86.875
+  },
+  {
+    "description": "Faction Shrine -- Dominion",
+    "x": 111.875,
+    "y": -86.125
+  },
+  {
+    "description": "Faction Shrine -- Neutral",
+    "x": 111.125,
+    "y": -86.125
+  },
+  {
+    "description": "Faction Shrine and Kingdom Stone -- Order of Dereth",
+    "x": 143.375,
+    "y": -117.5
+  },
+  {
+    "description": "Faction Shrine and Kingdom Stone -- Shadow Kingdom",
+    "x": 147.5,
+    "y": -116
+  },
+  {
+    "description": "Faction Shrine and Kingdom Stone -- Dominion",
+    "x": 151.5,
+    "y": -117.5
+  },
+  {
+    "description": "Faction Shrine -- Order of Dereth",
+    "x": 206.5,
+    "y": -114.75
+  },
+  {
+    "description": "Faction Shrine -- Shadow Kingdom",
+    "x": 206.875,
+    "y": -113.75
+  },
+  {
+    "description": "Faction Shrine -- Dominion",
+    "x": 207.75,
+    "y": -115.375
+  },
+  {
+    "description": "Faction Shrine -- Neutral",
+    "x": 207.125,
+    "y": -115.625
+  },
+  {
+    "description": "Faction Shrine -- Order of Dereth",
+    "x": 223.875,
+    "y": -115.125
+  },
+  {
+    "description": "Faction Shrine -- Shadow Kingdom",
+    "x": 224.875,
+    "y": -116.75
+  },
+  {
+    "description": "Faction Shrine -- Dominion",
+    "x": 223.875,
+    "y": -117
+  },
+  {
+    "description": "Faction Shrine -- Neutral",
+    "x": 224.875,
+    "y": -116.25
+  },
+  {
+    "description": "Faction Shrine -- Order of Dereth",
+    "x": 85.125,
+    "y": -140.25
+  },
+  {
+    "description": "Faction Shrine -- Shadow Kingdom",
+    "x": 85,
+    "y": -139.25
+  },
+  {
+    "description": "Faction Shrine -- Dominion",
+    "x": 85.25,
+    "y": -141.625
+  },
+  {
+    "description": "Faction Shrine -- Neutral",
+    "x": 85.125,
+    "y": -140.875
+  }
+]

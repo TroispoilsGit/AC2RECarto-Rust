@@ -1,0 +1,422 @@
+[
+  {
+    "description": "Ringway to northwest Lost Wish",
+    "x": 141.875,
+    "y": -71.125
+  },
+  {
+    "description": "Ringway to northeast Lost Wish",
+    "x": 140.125,
+    "y": -59.75
+  },
+  {
+    "description": "Ringway to southeast Lost Wish",
+    "x": 142.125,
+    "y": -72.625
+  },
+  {
+    "description": "Ringway to southwest Lost Wish",
+    "x": 154.625,
+    "y": -67.25
+  },
+  {
+    "description": "Ringway to northwest Esper",
+    "x": 108.875,
+    "y": -70
+  },
+  {
+    "description": "Ringway to northeast Esper",
+    "x": 102.125,
+    "y": -79.25
+  },
+  {
+    "description": "Ringway to town of Millstone",
+    "x": 95.875,
+    "y": -89.5
+  },
+  {
+    "description": "Ringway to southwest Esper",
+    "x": 94.5,
+    "y": -75
+  },
+  {
+    "description": "Ringway to northern Arwic Outland",
+    "x": 118.625,
+    "y": -70.125
+  },
+  {
+    "description": "Ringway to eastern Arwic Outland",
+    "x": 127.375,
+    "y": -67.75
+  },
+  {
+    "description": "Ringway to town of Arwic",
+    "x": 125,
+    "y": -83.75
+  },
+  {
+    "description": "Ringway to southern Arwic Outland",
+    "x": 138.375,
+    "y": -74
+  },
+  {
+    "description": "Ringway to town of Rakani",
+    "x": 207.625,
+    "y": -89.375
+  },
+  {
+    "description": "Ringway to northwest Naderu",
+    "x": 199.125,
+    "y": -93.125
+  },
+  {
+    "description": "Ringway to northeast Naderu",
+    "x": 194,
+    "y": -82
+  },
+  {
+    "description": "Ringway to southeast Naderu",
+    "x": 209,
+    "y": -82.875
+  },
+  {
+    "description": "Ringway to western Cobalt Sweeps",
+    "x": 118.875,
+    "y": -99
+  },
+  {
+    "description": "Ringway to northern Cobalt Sweeps",
+    "x": 128.375,
+    "y": -110
+  },
+  {
+    "description": "Ringway to town of Molwirth",
+    "x": 108,
+    "y": -103.125
+  },
+  {
+    "description": "Ringway to northwest Mad Crone Mountains",
+    "x": 133,
+    "y": -97.125
+  },
+  {
+    "description": "Ringway to northeast Mad Crone Mountains",
+    "x": 136.25,
+    "y": -89.375
+  },
+  {
+    "description": "Ringway to southeast Mad Crone Mountains",
+    "x": 153.625,
+    "y": -91.625
+  },
+  {
+    "description": "Ringway to town of Rithwic",
+    "x": 156.5,
+    "y": -95.75
+  },
+  {
+    "description": "Ringway to northwest Drudge Citadel",
+    "x": 144.375,
+    "y": -108.75
+  },
+  {
+    "description": "Ringway to northeast Drudge Citadel",
+    "x": 142.875,
+    "y": -101.25
+  },
+  {
+    "description": "Ringway to town of Cavendo",
+    "x": 165.625,
+    "y": -89.5
+  },
+  {
+    "description": "Ringway to southwest Drudge Citadel",
+    "x": 163,
+    "y": -107
+  },
+  {
+    "description": "Ringway to town of Ankoro",
+    "x": 238.875,
+    "y": -102.875
+  },
+  {
+    "description": "Ringway to northeast Farali",
+    "x": 226,
+    "y": -93.75
+  },
+  {
+    "description": "Ringway to southeast Farali",
+    "x": 242.125,
+    "y": -87.625
+  },
+  {
+    "description": "Ringway to central Farali",
+    "x": 218.875,
+    "y": -89.625
+  },
+  {
+    "description": "Ringway to town of Zu",
+    "x": 214.25,
+    "y": -93
+  },
+  {
+    "description": "Ringway to northwest Tou-Tou",
+    "x": 211.625,
+    "y": -113.25
+  },
+  {
+    "description": "Ringway to northeast Tou-Tou",
+    "x": 203.125,
+    "y": -98.25
+  },
+  {
+    "description": "Ringway to southern Tou-Tou",
+    "x": 222.125,
+    "y": -105.375
+  },
+  {
+    "description": "Ringway to western Kydi",
+    "x": 184.125,
+    "y": -133.875
+  },
+  {
+    "description": "Ringway to northern Kydi",
+    "x": 170.5,
+    "y": -117.625
+  },
+  {
+    "description": "Ringway to eastern Kydi",
+    "x": 181.625,
+    "y": -110.25
+  },
+  {
+    "description": "Ringway to southern Kydi",
+    "x": 183.75,
+    "y": -118.875
+  },
+  {
+    "description": "Ringway to western Prosper",
+    "x": 154.125,
+    "y": -113.25
+  },
+  {
+    "description": "Ringway to southern Prosper",
+    "x": 127.125,
+    "y": -117
+  },
+  {
+    "description": "Ringway to eastern Prosper",
+    "x": 139.625,
+    "y": -127.5
+  },
+  {
+    "description": "Ringway to city of Shoushi",
+    "x": 153.25,
+    "y": -126.5
+  },
+  {
+    "description": "Ringway to northwest Ariaki",
+    "x": 203.375,
+    "y": -103.5
+  },
+  {
+    "description": "Ringway to northeast Ariaki",
+    "x": 205.5,
+    "y": -115.375
+  },
+  {
+    "description": "Ringway to western Ariaki",
+    "x": 188.5,
+    "y": -105.375
+  },
+  {
+    "description": "Ringway to city of Ikeras",
+    "x": 191.375,
+    "y": -111.75
+  },
+  {
+    "description": "Ringway to city of Hakata",
+    "x": 239.875,
+    "y": -138.625
+  },
+  {
+    "description": "Ringway to northern Vesayan",
+    "x": 224.75,
+    "y": -114.375
+  },
+  {
+    "description": "Ringway to eastern Vesayan",
+    "x": 235.25,
+    "y": -111.75
+  },
+  {
+    "description": "Ringway to Vesayan Sanctuary",
+    "x": 245.5,
+    "y": -112.25
+  },
+  {
+    "description": "Ringway to northern Winterhollows",
+    "x": 82.125,
+    "y": -135.75
+  },
+  {
+    "description": "Ringway to northeast Winterhollows",
+    "x": 78.625,
+    "y": -127.125
+  },
+  {
+    "description": "Ringway to central Winterhollows",
+    "x": 70.5,
+    "y": -134.125
+  },
+  {
+    "description": "Ringway to town of Arhovas",
+    "x": 89.625,
+    "y": -128.875
+  },
+  {
+    "description": "Ringway to northwest Lumari",
+    "x": 209,
+    "y": -123
+  },
+  {
+    "description": "Ringway to northern Lumari",
+    "x": 223.125,
+    "y": -127.875
+  },
+  {
+    "description": "Ringway to town of Shinoko",
+    "x": 198.625,
+    "y": -129
+  },
+  {
+    "description": "Ringway to southeast Lumari",
+    "x": 214.625,
+    "y": -133.625
+  },
+  {
+    "description": "Ringway to western Gevoth",
+    "x": 58,
+    "y": -156.75
+  },
+  {
+    "description": "Ringway to southern Gevoth",
+    "x": 48.375,
+    "y": -135
+  },
+  {
+    "description": "Ringway to eastern Gevoth",
+    "x": 46.75,
+    "y": -140.875
+  },
+  {
+    "description": "Ringway to city of Palisade",
+    "x": 60.375,
+    "y": -139.625
+  },
+  {
+    "description": "Ringway to city of Linvak Tukal",
+    "x": 103.75,
+    "y": -140.75
+  },
+  {
+    "description": "Ringway to northern Thusik",
+    "x": 90,
+    "y": -139.25
+  },
+  {
+    "description": "Ringway to eastern Thusik",
+    "x": 100.125,
+    "y": -144.25
+  },
+  {
+    "description": "Ringway to southern Thusik",
+    "x": 99.75,
+    "y": -133.25
+  },
+  {
+    "description": "Ringway to northern Oriad",
+    "x": 121.75,
+    "y": -153.875
+  },
+  {
+    "description": "Ringway to eastern Oriad",
+    "x": 116.625,
+    "y": -150.375
+  },
+  {
+    "description": "Ringway to town of Whitebay",
+    "x": 128.875,
+    "y": -144.5
+  },
+  {
+    "description": "Ringway to western Oriad",
+    "x": 117.375,
+    "y": -143.375
+  },
+  {
+    "description": "Ringway to southwest Nepeth",
+    "x": 78.125,
+    "y": -145.25
+  },
+  {
+    "description": "Ringway to northeast Nepeth",
+    "x": 80.125,
+    "y": -159.625
+  },
+  {
+    "description": "Ringway to northwest Nepeth",
+    "x": 87.75,
+    "y": -151.625
+  },
+  {
+    "description": "Ringway to town of Ondekodo",
+    "x": 87.375,
+    "y": -147.375
+  },
+  {
+    "description": "Ringway to town of Keidelur",
+    "x": 94.25,
+    "y": -149.375
+  },
+  {
+    "description": "Ringway to central Stoneshadow()",
+    "x": 109.125,
+    "y": -151.5
+  },
+  {
+    "description": "Ringway to southwest Stoneshadow",
+    "x": 99.75,
+    "y": -155.375
+  },
+  {
+    "description": "Ringway to northwest Stoneshadow",
+    "x": 92.5,
+    "y": -161.625
+  },
+  {
+    "description": "Ringway to northwest Malthabbor",
+    "x": 78.75,
+    "y": -163.125
+  },
+  {
+    "description": "Ringway to southeast Plateau",
+    "x": 77.75,
+    "y": -168.625
+  },
+  {
+    "description": "Ringway to southeast Malthabbor",
+    "x": 72.625,
+    "y": -177.125
+  },
+  {
+    "description": "Ringway to eastern Malthabbor",
+    "x": 69.25,
+    "y": -168.25
+  },
+  {
+    "description": "Ringway to town of Gurokora",
+    "x": 66,
+    "y": -179.375
+  }
+]

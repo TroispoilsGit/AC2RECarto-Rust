@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Map : Asheron's Call 2</title>
+        <link rel="stylesheet" href="scripts/dist/leaflet.css" />
+        <script src="scripts/dist/leaflet-src.js"></script>
+        <link rel="stylesheet" href="scripts/dist/MarkerCluster.css" />
+        <link rel="stylesheet" href="scripts/dist/MarkerCluster.Default.css" />
+        <script src="scripts/dist/leaflet.markercluster-src.js"></script>
+        <link rel="stylesheet" href="style/style.css" />
+    </head>
+
+    <body>
+        <div id="map"></div>
+        <!--
+            window.__TAURI__ is injected by Tauri because `withGlobalTauri: true`
+            is set in tauri.conf.json. All modules access it via that global.
+        -->
+        <script type="module" src="scripts/app.js"></script>
+    </body>
+</html>

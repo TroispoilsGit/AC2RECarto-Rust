@@ -1,0 +1,112 @@
+[
+  {
+    "description": "Town of Kehan",
+    "x": 141.875,
+    "y": -73.625
+  },
+  {
+    "description": "Town of Millstone",
+    "x": 102.375,
+    "y": -79.625
+  },
+  {
+    "description": "Town of Arwic",
+    "x": 119.625,
+    "y": -71.75
+  },
+  {
+    "description": "Town of Rakani",
+    "x": 198.5,
+    "y": -91.625
+  },
+  {
+    "description": "Town of Molwirth",
+    "x": 128.375,
+    "y": -109.5
+  },
+  {
+    "description": "Town of Rithwic",
+    "x": 132,
+    "y": -97
+  },
+  {
+    "description": "Town of Cavendo",
+    "x": 164.25,
+    "y": -106.75
+  },
+  {
+    "description": "Town of Ankoro",
+    "x": 219.125,
+    "y": -90.5
+  },
+  {
+    "description": "Town of Zu",
+    "x": 221.375,
+    "y": -106.875
+  },
+  {
+    "description": "Town of Mayoi",
+    "x": 185,
+    "y": -134
+  },
+  {
+    "description": "City of Shoushi",
+    "x": 155.5,
+    "y": -115.375
+  },
+  {
+    "description": "Town of Arhovas",
+    "x": 70.375,
+    "y": -133.625
+  },
+  {
+    "description": "Town of Shinoko",
+    "x": 216,
+    "y": -133.25
+  },
+  {
+    "description": "Town of Whitebay",
+    "x": 121.625,
+    "y": -154.5
+  },
+  {
+    "description": "Town of Ondekodo",
+    "x": 87.625,
+    "y": -152.625
+  },
+  {
+    "description": "Town of Keidelur",
+    "x": 109.125,
+    "y": -150.625
+  },
+  {
+    "description": "Town of Gurokora",
+    "x": 77.75,
+    "y": -163.5
+  },
+  {
+    "description": "Caerlin Skyport",
+    "x": 172,
+    "y": -167
+  },
+  {
+    "description": "Yaosenji",
+    "x": 173.25,
+    "y": -172.5
+  },
+  {
+    "description": "Vothardun",
+    "x": 202.125,
+    "y": -170.125
+  },
+  {
+    "description": "Greenstone",
+    "x": 191.75,
+    "y": -191.625
+  },
+  {
+    "description": "The Aerie",
+    "x": 185.375,
+    "y": -176.875
+  }
+]

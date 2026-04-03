@@ -1,0 +1,192 @@
+[
+  {
+    "description": "Edge Beetle Mound (Dungeon, Level 1-6)",
+    "x": 152.875,
+    "y": -58.5
+  },
+  {
+    "description": "Wasp Hive (Dungeon, Level 5-10)",
+    "x": 154.75,
+    "y": -73.125
+  },
+  {
+    "description": "Vermin Nest (Dungeon, Level 1-6)",
+    "x": 105.5,
+    "y": -72.625
+  },
+  {
+    "description": "Haunted Cave (Dungeon, Level 5-10)",
+    "x": 102.25,
+    "y": -85.5
+  },
+  {
+    "description": "New Arwic Mines (Dungeon, Level 1-6)",
+    "x": 124.125,
+    "y": -69.375
+  },
+  {
+    "description": "The Hovel (Dungeon, Level 4-7)",
+    "x": 118.125,
+    "y": -80.625
+  },
+  {
+    "description": "Shreth Spawning Pit (Quest, Level 30)",
+    "x": 203.125,
+    "y": -87.625
+  },
+  {
+    "description": "Crumbled Sanctuary (Dungeon, Level 30-33)",
+    "x": 198.125,
+    "y": -80.875
+  },
+  {
+    "description": "Mist Caverns (Dungeon, Level 9-14)()",
+    "x": 112.375,
+    "y": -103.125
+  },
+  {
+    "description": "Old Cragstone Excavation (Level 7-15)",
+    "x": 118.5,
+    "y": -86.5
+  },
+  {
+    "description": "Drudge Hideout (Dungeon, Level 8-13)",
+    "x": 149.5,
+    "y": -96.625
+  },
+  {
+    "description": "Mad Crone Haven (Dungeon, Level 10-14)",
+    "x": 152.625,
+    "y": -88.875
+  },
+  {
+    "description": "Underground Drudge City (Dungeon, Level 16-23)",
+    "x": 152.75,
+    "y": -101.25
+  },
+  {
+    "description": "The Laboratories (Dungeon, Level 18-22)",
+    "x": 146.375,
+    "y": -103.625
+  },
+  {
+    "description": "Mucor Mushroom Grotto (Quest, Level 30)",
+    "x": 233.125,
+    "y": -89.5
+  },
+  {
+    "description": "Dank Empyrean Ruins (Dungeon, Level 33-34)",
+    "x": 238.625,
+    "y": -87.625
+  },
+  {
+    "description": "Olthoi Hive (Dungeon, Level 40)",
+    "x": 222.25,
+    "y": -86.625
+  },
+  {
+    "description": "Olthoi Hive (Dungeon, Level 40)",
+    "x": 225.5,
+    "y": -86.625
+  },
+  {
+    "description": "Deepdank Tunnels (Dungeon, Level 25-30)",
+    "x": 211.625,
+    "y": -97.75
+  },
+  {
+    "description": "Deep Darkenfowl Roosts (Quest, Level 20)()",
+    "x": 188.5,
+    "y": -118.25
+  },
+  {
+    "description": "Water Temple Dungeon (Dungeon, Level 16-19)",
+    "x": 184.5,
+    "y": -126.375
+  },
+  {
+    "description": "Inner Darkness Dungeon (Dungeon, Level 18-22)",
+    "x": 179.375,
+    "y": -136.625
+  },
+  {
+    "description": "Illuminated Drudge Cave (Quest, Level 18)",
+    "x": 148.875,
+    "y": -122.375
+  },
+  {
+    "description": "Lasher Caves (Dungeon, Level 14-18)",
+    "x": 133.5,
+    "y": -113.5
+  },
+  {
+    "description": "Fiery Crypt (Dungeon, Level 16-23)",
+    "x": 148.75,
+    "y": -120.375
+  },
+  {
+    "description": "Darkenfowl Pens (Dungeon, Level 20-25)",
+    "x": 191.75,
+    "y": -115.75
+  },
+  {
+    "description": "Toad Keep (Dungeon, Level 32-35)",
+    "x": 243.75,
+    "y": -118.75
+  },
+  {
+    "description": "The Ossuary (Dungeon, Level 42-45)",
+    "x": 83.625,
+    "y": -133.375
+  },
+  {
+    "description": "Omishan Armory (Quest, Level 30)",
+    "x": 220.5,
+    "y": -141
+  },
+  {
+    "description": "Sclavus Hierophant\u0027s Temple (Quest, Level 22)",
+    "x": 214.125,
+    "y": -116.375
+  },
+  {
+    "description": "Ghost Mines (Dungeon, Level 30-33)",
+    "x": 201,
+    "y": -122
+  },
+  {
+    "description": "Frozen Ravine (Dungeon, Level 45)",
+    "x": 57.75,
+    "y": -140.125
+  },
+  {
+    "description": "Crystal Caves (Dungeon, Level 35-39)",
+    "x": 88.375,
+    "y": -136.875
+  },
+  {
+    "description": "Linvak Massif Armory (Quest, Level 30)",
+    "x": 113.5,
+    "y": -144.625
+  },
+  {
+    "description": "Steam Caverns (Dungeon, Level 32-34)",
+    "x": 127,
+    "y": -154
+  },
+  {
+    "description": "The Banderling Delve (Dungeon, Level 38-45)",
+    "x": 90,
+    "y": -148
+  },
+  {
+    "description": "Golden Age Reliquary (Dungeon, Level 39-41)",
+    "x": 95.25,
+    "y": -152.75
+  },
+  {
+    "description": "New Mage Academy (Dungeon, Level 45)",
+    "x": 64.25,
+    "y": -178.875
+  }
+]

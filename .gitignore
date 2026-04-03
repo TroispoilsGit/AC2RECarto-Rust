@@ -1,0 +1,19 @@
+# Rust / Tauri
+src-tauri/target/
+**/*.rs.bk
+
+# Runtime/local app config
+src-tauri/config.json
+
+# Build artifacts
+*.log
+*.tmp
+
+# Node ecosystem (if added later)
+node_modules/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

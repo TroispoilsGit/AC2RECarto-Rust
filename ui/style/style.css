@@ -1,0 +1,75 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#map {
+    height: 100vh;
+    width: 100vw;
+}
+
+.leaflet-tile {
+    border: 1px solid #ff000000;
+}
+
+.coordinates-overlay {
+    width: 126px;
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    background: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    font-size: 16px;
+    z-index: 1000;
+}
+
+.leaflet-control-layers-section-title {
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #1f5a3d;
+    margin: 0 0 6px 0;
+    letter-spacing: 0.4px;
+}
+
+.poi-overlay-control {
+    width: 210px;
+    box-sizing: border-box;
+}
+
+.poi-overlay-control .leaflet-control-layers-overlays label {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.poi-overlay-control .leaflet-control-layers-selector {
+    flex: 0 0 auto;
+    margin: 0;
+}
+
+.poi-overlay-entry {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    min-width: 0;
+}
+
+.poi-overlay-icon {
+    width: 9px;
+    height: 9px;
+    image-rendering: pixelated;
+    flex: 0 0 auto;
+}
+
+.poi-overlay-name {
+    line-height: 1.1;
+}
+
+.poi-overlay-separator {
+    line-height: 1.1;
+    color: #555;
+}

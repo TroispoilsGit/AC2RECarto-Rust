@@ -1,0 +1,502 @@
+[
+  {
+    "description": "Drudge Windmill (Point of Interest)",
+    "x": 142.125,
+    "y": -67.625
+  },
+  {
+    "description": "Armoredillo Ancestor Head (Quest, Level 3)",
+    "x": 144,
+    "y": -73.75
+  },
+  {
+    "description": "Empyrean Head Circle (Point of Interest)",
+    "x": 146.625,
+    "y": -68.875
+  },
+  {
+    "description": "Obsidian Span (Point of Interest)",
+    "x": 112.75,
+    "y": -72
+  },
+  {
+    "description": "Armoredillo Ancestor Head (Quest, Level 3)",
+    "x": 110.125,
+    "y": -75.625
+  },
+  {
+    "description": "Drudge Outcast Camp (Point of Interest)",
+    "x": 103.75,
+    "y": -84.875
+  },
+  {
+    "description": "Armoredillo Ancestor Head (Quest, Level 3)",
+    "x": 117.375,
+    "y": -71.875
+  },
+  {
+    "description": "Deru Tree (Quest, Level 25)",
+    "x": 197.75,
+    "y": -91.625
+  },
+  {
+    "description": "Shrine of the Leaf (Point of Interest)",
+    "x": 192.875,
+    "y": -84.125
+  },
+  {
+    "description": "Shrine of the Root (Point of Interest)",
+    "x": 204.875,
+    "y": -79.375
+  },
+  {
+    "description": "Shrine of the Limb (Point of Interest)",
+    "x": 215.75,
+    "y": -84.375
+  },
+  {
+    "description": "Crater Tunnel (Point of Interest)",
+    "x": 217.875,
+    "y": -82.5
+  },
+  {
+    "description": "Ruins of Old Cragstone (Point of Interest)",
+    "x": 120.375,
+    "y": -88.625
+  },
+  {
+    "description": "The Sundermont (Point of Interest)",
+    "x": 120.5,
+    "y": -102.875
+  },
+  {
+    "description": "Mist Shrine (Quest, Level 7)",
+    "x": 128.5,
+    "y": -109.625
+  },
+  {
+    "description": "Drudge Slinker Bandit Camp (Quest, Level 10)",
+    "x": 125.25,
+    "y": -107.75
+  },
+  {
+    "description": "Mad Crone Mountains (Point of Interest)",
+    "x": 154.25,
+    "y": -92.5
+  },
+  {
+    "description": "Cauldron of Tanacha (Quest, Level 5)",
+    "x": 132.5,
+    "y": -91.625
+  },
+  {
+    "description": "Drudge Island Fort (Point of Interest)",
+    "x": 160.125,
+    "y": -94.25
+  },
+  {
+    "description": "Six Falls (Point of Interest)",
+    "x": 139.75,
+    "y": -86.625
+  },
+  {
+    "description": "Isle of Tears Drudge Fort",
+    "x": 128.25,
+    "y": -93.625
+  },
+  {
+    "description": "City of Artefon()",
+    "x": 137.125,
+    "y": -102.75
+  },
+  {
+    "description": "Ribcage Citadel (Point of Interest)",
+    "x": 155,
+    "y": -103.75
+  },
+  {
+    "description": "Rashan Twoblades (Quest, Level 10)",
+    "x": 157.625,
+    "y": -108
+  },
+  {
+    "description": "Idol of Might (Point of Interest)",
+    "x": 150.375,
+    "y": -107.875
+  },
+  {
+    "description": "Idol of Speed (Point of Interest)",
+    "x": 148.625,
+    "y": -107.625
+  },
+  {
+    "description": "Idol of Fortitude (Point of Interest)",
+    "x": 153,
+    "y": -107.875
+  },
+  {
+    "description": "Warder Hideout (Quest, Level 15)",
+    "x": 145.375,
+    "y": -101.25
+  },
+  {
+    "description": "Drudge Fort (Quest, Level 15)",
+    "x": 154.375,
+    "y": -102.625
+  },
+  {
+    "description": "The Choker (Point of Interest)",
+    "x": 232.375,
+    "y": -97.375
+  },
+  {
+    "description": "Ancestor Head (Quest, Level 30)",
+    "x": 243.75,
+    "y": -88.625
+  },
+  {
+    "description": "Tou-Tou Lighthouse (Point of Interest)",
+    "x": 222.375,
+    "y": -104.75
+  },
+  {
+    "description": "Ruins of Hebian-to (Point of Interest)",
+    "x": 216.125,
+    "y": -110.25
+  },
+  {
+    "description": "Tou-Tou Bathhouse (Point of Interest)",
+    "x": 220.625,
+    "y": -108.375
+  },
+  {
+    "description": "Burun village of Blackmire (Point of Interest)",
+    "x": 207.125,
+    "y": -101.875
+  },
+  {
+    "description": "Fort Aimaru",
+    "x": 215.5,
+    "y": -107.375
+  },
+  {
+    "description": "Ruins of Lin (Point of Interest)",
+    "x": 214.625,
+    "y": -112.625
+  },
+  {
+    "description": "Ruins of Baishi (Point of Interest)",
+    "x": 212.25,
+    "y": -109.875
+  },
+  {
+    "description": "Aulatah Colossus (Point of Interest)",
+    "x": 177.5,
+    "y": -115.25
+  },
+  {
+    "description": "Hinu's Mimbu Village (Point of Interest)",
+    "x": 177.5,
+    "y": -107.5
+  },
+  {
+    "description": "Island Mimbu Village (Point of Interest)",
+    "x": 179.5,
+    "y": -104.875
+  },
+  {
+    "description": "Sclavus Fortress (Point of Interest)",
+    "x": 189,
+    "y": -121
+  },
+  {
+    "description": "Haunted Mission Ruins",
+    "x": 181,
+    "y": -132
+  },
+  {
+    "description": "Ruins of Nanto (Point of Interest)",
+    "x": 186,
+    "y": -128
+  },
+  {
+    "description": "Shoyanen's Tower (Point of Interest)",
+    "x": 190.375,
+    "y": -134.875
+  },
+  {
+    "description": "Ruined Fort (Point of Interest)",
+    "x": 179,
+    "y": -140
+  },
+  {
+    "description": "Mimbu Village (Point of Interest)",
+    "x": 178,
+    "y": -128
+  },
+  {
+    "description": "Blue Ghost Falls (Point of Interest)",
+    "x": 185.625,
+    "y": -127.75
+  },
+  {
+    "description": "The Dam (Point of Interest)",
+    "x": 143.25,
+    "y": -111.625
+  },
+  {
+    "description": "Spirit of Artefun",
+    "x": 143,
+    "y": -111.875
+  },
+  {
+    "description": "New Drudge Republic Counselors (Quest, Level 13)",
+    "x": 151,
+    "y": -127
+  },
+  {
+    "description": "Tamar Realian (Quest, Level 15)",
+    "x": 135.375,
+    "y": -119.875
+  },
+  {
+    "description": "Osteth Weapons Golem (Quest, Level 15)",
+    "x": 138.25,
+    "y": -120
+  },
+  {
+    "description": "Empyrean Bridge (Point of Interest)",
+    "x": 154,
+    "y": -126
+  },
+  {
+    "description": "King Toad Idol (Point of Interest)",
+    "x": 150.375,
+    "y": -124.375
+  },
+  {
+    "description": "The Head of Alkandar (Point of Interest)",
+    "x": 191.375,
+    "y": -101.625
+  },
+  {
+    "description": "Totem of Vakentu (Quest, Level 20)",
+    "x": 206.5,
+    "y": -115.625
+  },
+  {
+    "description": "Ithaenc Cathedral (Point of Interest)",
+    "x": 239.25,
+    "y": -138.25
+  },
+  {
+    "description": "Four Falls Overlook (Point of Interest)",
+    "x": 240.5,
+    "y": -136
+  },
+  {
+    "description": "The Icefall (Point of Interest)",
+    "x": 73.375,
+    "y": -138.625
+  },
+  {
+    "description": "The Frostbound One (Quest, Level 42)",
+    "x": 79.25,
+    "y": -131.375
+  },
+  {
+    "description": "Portal to Icefire Gorge",
+    "x": 79.125,
+    "y": -131.25
+  },
+  {
+    "description": "Unaro's Burial Mound (Quest, Level 25)",
+    "x": 212.875,
+    "y": -118.875
+  },
+  {
+    "description": "Shi Sumakhe (Quest, Level 30)",
+    "x": 220.25,
+    "y": -130.375
+  },
+  {
+    "description": "Aste Sclavus Temple (Quest, Level 22)",
+    "x": 197.5,
+    "y": -113.375
+  },
+  {
+    "description": "Essa Sclavus Temple (Quest, Level 22)",
+    "x": 201.625,
+    "y": -119.25
+  },
+  {
+    "description": "Ulu Sclavus Temple (Quest, Level 22)",
+    "x": 226.375,
+    "y": -130.5
+  },
+  {
+    "description": "Dereth Rally (Quest, Level 15)",
+    "x": 210.125,
+    "y": -121.875
+  },
+  {
+    "description": "Gates of Gevoth (Point of Interest)",
+    "x": 53.5,
+    "y": -143.75
+  },
+  {
+    "description": "The Silent City (Point of Interest)()",
+    "x": 97.375,
+    "y": -137.75
+  },
+  {
+    "description": "Altar of Justice (Point of Interest)",
+    "x": 100.125,
+    "y": -128.75
+  },
+  {
+    "description": "Altar of Turmoil (Point of Interest)",
+    "x": 109.75,
+    "y": -136.75
+  },
+  {
+    "description": "Altar of Order (Point of Interest)",
+    "x": 106.875,
+    "y": -145.25
+  },
+  {
+    "description": "Altar of the Ancients (Quest, Level 35)",
+    "x": 94.75,
+    "y": -135.625
+  },
+  {
+    "description": "Mistcurl Vale (Point of Interest)",
+    "x": 128,
+    "y": -156.5
+  },
+  {
+    "description": "Eli Spinekeeper Camp (Quest, Level 28)",
+    "x": 123.375,
+    "y": -146.5
+  },
+  {
+    "description": "Malga Dresovan (Quest, Level 40)",
+    "x": 121.125,
+    "y": -147.625
+  },
+  {
+    "description": "Yokketh Bell Tower (Point of Interest)",
+    "x": 84.5,
+    "y": -149.25
+  },
+  {
+    "description": "Lodrog's Watchtower (Quest, Level 38)",
+    "x": 86.75,
+    "y": -155.875
+  },
+  {
+    "description": "The Water Walk (Point of Interest)",
+    "x": 79.375,
+    "y": -160.5
+  },
+  {
+    "description": "Resolution Point (Point of Interest)",
+    "x": 68.375,
+    "y": -146.125
+  },
+  {
+    "description": "The Colussus (Point of Interest)",
+    "x": 92.5,
+    "y": -146.75
+  },
+  {
+    "description": "Ruined Temple (Point of Interest)",
+    "x": 97,
+    "y": -153.875
+  },
+  {
+    "description": "Fortress Goarata (Point of Interest)",
+    "x": 70.5,
+    "y": -174
+  },
+  {
+    "description": "Ancestor Head (Quest, Level 45)",
+    "x": 64.125,
+    "y": -179.375
+  },
+  {
+    "description": "The End of the Road (Point of Interest)",
+    "x": 76.625,
+    "y": -170.375
+  },
+  {
+    "description": "Star Beacon",
+    "x": 64.875,
+    "y": -112.125
+  },
+  {
+    "description": "Abandoned Gromnatross Nest",
+    "x": 178,
+    "y": -164
+  },
+  {
+    "description": "Atlan's Foundry",
+    "x": 206.75,
+    "y": -169.875
+  },
+  {
+    "description": "Pyreal Mines",
+    "x": 202.5,
+    "y": -164.75
+  },
+  {
+    "description": "Realadain Estate",
+    "x": 202.5,
+    "y": -202.125
+  },
+  {
+    "description": "Fort Strathelar",
+    "x": 177.5,
+    "y": -193.625
+  },
+  {
+    "description": "Shield Wall Gate",
+    "x": 174.5,
+    "y": -195.875
+  },
+  {
+    "description": "Stalwart's Tower",
+    "x": 185.625,
+    "y": -195.75
+  },
+  {
+    "description": "Knorr Lyceum",
+    "x": 158.125,
+    "y": -217.375
+  },
+  {
+    "description": "Tower of Wrath",
+    "x": 179,
+    "y": -209.75
+  },
+  {
+    "description": "Knorr Lyceum Dock",
+    "x": 152,
+    "y": -216.875
+  },
+  {
+    "description": "Knorr Dormitories",
+    "x": 152,
+    "y": -216.875
+  },
+  {
+    "description": "Observatory",
+    "x": 152.75,
+    "y": -206.5
+  },
+  {
+    "description": "Tibri Outpost",
+    "x": 171.5,
+    "y": -201.5
+  }
+]

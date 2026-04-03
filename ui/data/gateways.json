@@ -1,0 +1,182 @@
+[
+  {
+    "description": "Gateways: Arwic, Millstone, Cragstone",
+    "x": 142.125,
+    "y": -73.125
+  },
+  {
+    "description": "Gateways: Arwic, Kehan, Cragstone",
+    "x": 102,
+    "y": -79.875
+  },
+  {
+    "description": "Gateways: Kehan, Millstone, Cragstone",
+    "x": 118.625,
+    "y": -70.75
+  },
+  {
+    "description": "Gateways: Ankoro, Ikeras",
+    "x": 198.625,
+    "y": -93.125
+  },
+  {
+    "description": "Gateways: Millstone, Kehan, Arwic, Molwirth, Rithwic",
+    "x": 111.5,
+    "y": -86.5
+  },
+  {
+    "description": "Gateways: Cragstone, Shoushi",
+    "x": 127.75,
+    "y": -109.75
+  },
+  {
+    "description": "Gateways: Cavendo, Cragstone",
+    "x": 133.375,
+    "y": -97.25
+  },
+  {
+    "description": "Gateways: Rithwic, Shoushi",
+    "x": 163.875,
+    "y": -107
+  },
+  {
+    "description": "Gateway: Omishan",
+    "x": 164.625,
+    "y": -106.875
+  },
+  {
+    "description": "Gateways: Rakani, Hakata",
+    "x": 220.625,
+    "y": -91.625
+  },
+  {
+    "description": "Gateways: Shinoko, Ikeras",
+    "x": 222.625,
+    "y": -105.625
+  },
+  {
+    "description": "Gateways: Shinoko, Ikeras",
+    "x": 184.25,
+    "y": -133.25
+  },
+  {
+    "description": "Gateways: Shoushi, Cavendo",
+    "x": 166.875,
+    "y": -116.125
+  },
+  {
+    "description": "Gateways: Cavendo and Molwirth",
+    "x": 155.625,
+    "y": -113.25
+  },
+  {
+    "description": "Gateway: Kydi",
+    "x": 158.375,
+    "y": -117.25
+  },
+  {
+    "description": "Gateway from Prosper Free-For-All Area to Shoushi",
+    "x": 126.25,
+    "y": -124.375
+  },
+  {
+    "description": "Gateway to Prosper Free-For-All Area",
+    "x": 127.875,
+    "y": -122.5
+  },
+  {
+    "description": "Gateways: Rakani, Hakata",
+    "x": 205.375,
+    "y": -114.25
+  },
+  {
+    "description": "Gateways: Zu, Mayoi",
+    "x": 204.25,
+    "y": -115.375
+  },
+  {
+    "description": "Gateways: Ankoro, Ikeras",
+    "x": 224.75,
+    "y": -115.5
+  },
+  {
+    "description": "Gateway: Rings of Oriad",
+    "x": 245.875,
+    "y": -105.625
+  },
+  {
+    "description": "Gateways: Palisade, Linvak Tukal",
+    "x": 70.25,
+    "y": -134.875
+  },
+  {
+    "description": "Gateways: Mayoi, Zu",
+    "x": 214.375,
+    "y": -133.375
+  },
+  {
+    "description": "Gateways: Arhovas, Gurokora",
+    "x": 50.5,
+    "y": -132.75
+  },
+  {
+    "description": "Gateways: Keidelur, Whitebay",
+    "x": 89.5,
+    "y": -140.5
+  },
+  {
+    "description": "Gateways: Arhovas, Ondekodo",
+    "x": 87.5,
+    "y": -138.625
+  },
+  {
+    "description": "Gateways: Keidelur, Linvak Tukal",
+    "x": 121.375,
+    "y": -154
+  },
+  {
+    "description": "Gateway: Vesayan Isles",
+    "x": 132.375,
+    "y": -143.5
+  },
+  {
+    "description": "Gateways: Gurokora, Linvak Tukal",
+    "x": 87.375,
+    "y": -151.875
+  },
+  {
+    "description": "Gateways: Whitebay, Linvak Tukal",
+    "x": 109.5,
+    "y": -151.125
+  },
+  {
+    "description": "Gateways: Ondekodo, Palisade",
+    "x": 78.5,
+    "y": -163.25
+  },
+  {
+    "description": "Gateways to Arramora",
+    "x": 64.625,
+    "y": -111.75
+  },
+  {
+    "description": "Gateway: Linvak Massif",
+    "x": 65,
+    "y": -112.25
+  },
+  {
+    "description": "Southern Arramora Gateway",
+    "x": 75.5,
+    "y": -101.75
+  },
+  {
+    "description": "Southern Arramora Gateway",
+    "x": 66.25,
+    "y": -95.375
+  },
+  {
+    "description": "Southern Arramora Gateway",
+    "x": 55.75,
+    "y": -106.5
+  }
+]

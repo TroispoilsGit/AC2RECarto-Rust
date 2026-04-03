@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Default capabilities for AC2RECarto","local":true,"windows":["main","config"],"permissions":["core:default","dialog:allow-open"]}}
